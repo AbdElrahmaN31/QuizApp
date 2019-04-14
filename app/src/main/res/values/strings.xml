@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_create_account">Create Account ? Signup</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account_login">Already have an Account ? Login</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="bottom_categories">Categories</string>
+    <string name="bottom_ranking">Ranking</string>
+    <string name="category_name">Category name</string>
+</resources>
