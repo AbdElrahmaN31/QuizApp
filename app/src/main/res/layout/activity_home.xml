@@ -10,7 +10,7 @@
     tools:context=".UI.Home.HomeActivity">
 
     <FrameLayout
-        android:layout_above="@id/frame_home"
+        android:layout_above="@id/navigation_home"
         android:id="@+id/frame_home"
         android:animateLayoutChanges="true"
         android:layout_width="match_parent"
